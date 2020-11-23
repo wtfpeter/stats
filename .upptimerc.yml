@@ -19,7 +19,7 @@ status-website:
   cname: stats.pethor.eu
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/apancik/public-domain-icons/master/dist/symbol%20cardiology.svg
   name: Service Status
   introTitle: 
   introMessage: Uptime, average response times, ongoing and past incidents
