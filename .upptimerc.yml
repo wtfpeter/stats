@@ -5,7 +5,7 @@ repo: stats # Your Github repository name
 # Add your sites here
 sites:
   - name: Plex
-    url: https://pethor.duckdns.org:8080/web/index.html
+    url: $PLEX
     __dangerous__disable_verify_host: true
     expectedStatusCodes:
       - 200
