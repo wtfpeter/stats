@@ -10,9 +10,9 @@ sites:
   - name: Ombi
     url: https://ombi.pethor.eu/
   - name: Monitoring
-    url: $MONITOR_SITE
+    url: https://mon.pethor.eu/
   - name: Cloud
-    url: $CLOUD_SITE
+    url: https://cloud.pethor.eu
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
