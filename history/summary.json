@@ -4,7 +4,7 @@
     "url": "https://pethor.duckdns.org:8080/web/index.html",
     "slug": "plex",
     "status": "up",
-    "uptime": "29.12%",
+    "uptime": "29.14%",
     "time": 139
   },
   {
@@ -20,7 +20,7 @@
     "url": "$MONITOR_SITE",
     "slug": "monitoring",
     "status": "down",
-    "uptime": "4.26%",
+    "uptime": "5.08%",
     "time": 0
   },
   {
@@ -28,7 +28,7 @@
     "url": "$CLOUD_SITE",
     "slug": "cloud",
     "status": "down",
-    "uptime": "3.58%",
+    "uptime": "4.85%",
     "time": 0
   }
 ]
