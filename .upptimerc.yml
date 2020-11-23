@@ -5,12 +5,11 @@ repo: stats # Your Github repository name
 # Add your sites here
 sites:
   - name: Plex
-    url: https://pethor.duckdns.org:8080
+    url: https://pethor.duckdns.org:8080/web/index.html
     __dangerous__insecure: true
     expectedStatusCodes:
       - 200
       - 201
-      - 404
       - 302
   - name: Ombi
     url: https://ombi.pethor.eu/
