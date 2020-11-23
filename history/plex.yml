@@ -1,7 +1,7 @@
-url: $PLEX_SITE:$PLEX_PORT  
+url: $PLEX_SITE  
 status: down
 code: 0
 responseTime: 0
-lastUpdated: 2020-11-23T13:13:49.535Z
+lastUpdated: 2020-11-23T13:21:40.747Z
 startTime: Mon Nov 23 2020 13:13:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
