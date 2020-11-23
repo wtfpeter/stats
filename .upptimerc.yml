@@ -9,6 +9,10 @@ sites:
     __dangerous__disable_verify_host: true
   - name: Ombi
     url: https://ombi.pethor.eu/
+  - name: Monitoring
+    url: $MONITOR_SITE
+  - name: Cloud
+    url: $CLOUD_SITE
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
