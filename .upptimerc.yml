@@ -1,9 +1,11 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your Github repository name
+owner: wtfpeter # Your GitHub username
+repo: stats # Your Github repository name
 
 # Add your sites here
 sites:
+  - name: Plex
+    url: $PLEX_SITE:$PLEX_PORT
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
