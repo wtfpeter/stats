@@ -7,10 +7,6 @@ sites:
   - name: Plex
     url: $PLEX
     __dangerous__disable_verify_host: true
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 302
   - name: Ombi
     url: https://ombi.pethor.eu/
 
