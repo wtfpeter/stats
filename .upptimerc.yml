@@ -6,6 +6,7 @@ repo: stats # Your Github repository name
 sites:
   - name: Plex
     url: $PLEX_SITE
+    __dangerous__insecure: true
   - name: Ombi
     url: https://ombi.pethor.eu/
 
