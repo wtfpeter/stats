@@ -6,6 +6,8 @@ repo: stats # Your Github repository name
 sites:
   - name: Plex
     url: $PLEX_SITE
+  - name: Ombi
+    url: https://ombi.pethor.eu/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
