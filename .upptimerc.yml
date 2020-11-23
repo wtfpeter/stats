@@ -23,11 +23,11 @@ status-website:
   name: Service Status
   introTitle: 
   introMessage: Uptime, average response times, ongoing and past incidents
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+#  navbar:
+#    - title: Status
+#      href: /
+#    - title: GitHub
+#      href: https://github.com/$OWNER/$REPO
 
 i18n:
   footer: Powered by [Upptime](https://upptime.js.org)
