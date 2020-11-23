@@ -4,8 +4,8 @@
     "url": "$PLEX",
     "slug": "plex",
     "status": "down",
-    "uptime": "25.42%",
-    "time": 110
+    "uptime": "25.11%",
+    "time": 104
   },
   {
     "name": "Ombi",
@@ -13,6 +13,6 @@
     "slug": "ombi",
     "status": "up",
     "uptime": "100.00%",
-    "time": 685
+    "time": 680
   }
 ]
