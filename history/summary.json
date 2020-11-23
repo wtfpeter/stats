@@ -1,11 +1,19 @@
 [
   {
+    "name": "Plex",
+    "url": "$PLEX_SITE:$PLEX_PORT",
+    "slug": "plex",
+    "status": "down",
+    "uptime": "16.57%",
+    "time": 0
+  },
+  {
     "name": "Google",
     "url": "https://www.google.com",
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "time": 27
+    "time": 37
   },
   {
     "name": "Wikipedia",
@@ -13,7 +21,7 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
-    "time": 9
+    "time": 14
   },
   {
     "name": "Hacker News",
@@ -21,7 +29,7 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "100.00%",
-    "time": 205
+    "time": 307
   },
   {
     "name": "Broken Site",
@@ -36,7 +44,7 @@
     "url": "$SECRET_SITE",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "100.00%",
+    "uptime": "99.98%",
     "time": 0
   }
 ]
