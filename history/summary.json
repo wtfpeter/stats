@@ -4,7 +4,15 @@
     "url": "$PLEX_SITE",
     "slug": "plex",
     "status": "down",
-    "uptime": "0.11%",
+    "uptime": "0.18%",
     "time": 0
+  },
+  {
+    "name": "Ombi",
+    "url": "https://ombi.pethor.eu/",
+    "slug": "ombi",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 850
   }
 ]
