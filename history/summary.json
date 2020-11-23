@@ -1,11 +1,11 @@
 [
   {
     "name": "Plex",
-    "url": "$PLEX_SITE",
+    "url": "https://ombi.pethor.eu/",
     "slug": "plex",
-    "status": "down",
-    "uptime": "75.81%",
-    "time": 0
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 153
   },
   {
     "name": "Ombi",
@@ -13,6 +13,6 @@
     "slug": "ombi",
     "status": "up",
     "uptime": "100.00%",
-    "time": 690
+    "time": 637
   }
 ]
