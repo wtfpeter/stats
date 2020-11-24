@@ -3,9 +3,9 @@
     "name": "Plex",
     "url": "https://pethor.duckdns.org:8080/web/index.html",
     "slug": "plex",
-    "status": "up",
-    "uptime": "55.60%",
-    "time": 172
+    "status": "down",
+    "uptime": "61.64%",
+    "time": 165
   },
   {
     "name": "Ombi",
