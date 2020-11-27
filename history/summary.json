@@ -4,31 +4,31 @@
     "url": "https://pethor.duckdns.org:8080/web/index.html",
     "slug": "plex",
     "status": "up",
-    "uptime": "99.07%",
-    "time": 405
+    "uptime": "99.34%",
+    "time": 407
   },
   {
     "name": "Ombi",
     "url": "https://ombi.pethor.eu/",
     "slug": "ombi",
     "status": "up",
-    "uptime": "99.51%",
-    "time": 611
+    "uptime": "99.65%",
+    "time": 619
   },
   {
     "name": "Monitoring",
     "url": "https://mon.pethor.eu/",
     "slug": "monitoring",
     "status": "up",
-    "uptime": "99.45%",
-    "time": 1590
+    "uptime": "99.63%",
+    "time": 1526
   },
   {
     "name": "Cloud",
     "url": "https://cloud.pethor.eu",
     "slug": "cloud",
     "status": "up",
-    "uptime": "99.47%",
-    "time": 728
+    "uptime": "99.64%",
+    "time": 755
   }
 ]
