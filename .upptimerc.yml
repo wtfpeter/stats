@@ -24,7 +24,7 @@ status-website:
   introTitle: 
   introMessage: Uptime, average response times, ongoing and past incidents
 #  navbar:
-#    - title: Status
+#    - title: Status Page
 #      href: /
 #    - title: GitHub
 #      href: https://github.com/$OWNER/$REPO
