@@ -11,9 +11,9 @@
     "name": "Ombi",
     "url": "https://ombi.pethor.eu/",
     "slug": "ombi",
-    "status": "down",
-    "uptime": "57.23%",
-    "time": 706
+    "status": "up",
+    "uptime": "57.25%",
+    "time": 703
   },
   {
     "name": "Monitoring",
