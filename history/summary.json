@@ -11,16 +11,16 @@
     "name": "Ombi",
     "url": "https://ombi.pethor.eu/",
     "slug": "ombi",
-    "status": "up",
-    "uptime": "56.67%",
-    "time": 711
+    "status": "down",
+    "uptime": "57.23%",
+    "time": 706
   },
   {
     "name": "Monitoring",
     "url": "https://mon.pethor.eu/",
     "slug": "monitoring",
     "status": "up",
-    "uptime": "99.59%",
+    "uptime": "99.60%",
     "time": 1200
   },
   {
@@ -28,7 +28,7 @@
     "url": "https://cloud.pethor.eu",
     "slug": "cloud",
     "status": "up",
-    "uptime": "99.74%",
+    "uptime": "99.75%",
     "time": 864
   }
 ]
