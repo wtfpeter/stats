@@ -4,24 +4,48 @@
     "url": "https://pethor.duckdns.org:8080/web/index.html",
     "slug": "plex",
     "status": "up",
-    "uptime": "99.48%",
-    "time": 404
+    "uptime": "99.49%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.49%",
+    "time": 775,
+    "timeDay": 433,
+    "timeWeek": 486,
+    "timeMonth": 775,
+    "timeYear": 775
   },
   {
     "name": "Ombi",
     "url": "https://ombi.pethor.eu/",
     "slug": "ombi",
     "status": "up",
-    "uptime": "57.25%",
-    "time": 703
+    "uptime": "58.20%",
+    "uptimeDay": "33.48%",
+    "uptimeWeek": "43.58%",
+    "uptimeMonth": "58.20%",
+    "uptimeYear": "58.20%",
+    "time": 738,
+    "timeDay": 1320,
+    "timeWeek": 879,
+    "timeMonth": 738,
+    "timeYear": 738
   },
   {
     "name": "Monitoring",
     "url": "https://mon.pethor.eu/",
     "slug": "monitoring",
     "status": "up",
-    "uptime": "99.60%",
-    "time": 1200
+    "uptime": "99.61%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.61%",
+    "time": 1548,
+    "timeDay": 755,
+    "timeWeek": 1045,
+    "timeMonth": 1548,
+    "timeYear": 1548
   },
   {
     "name": "Cloud",
@@ -29,6 +53,14 @@
     "slug": "cloud",
     "status": "up",
     "uptime": "99.75%",
-    "time": 864
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
+    "time": 1099,
+    "timeDay": 938,
+    "timeWeek": 1104,
+    "timeMonth": 1099,
+    "timeYear": 1099
   }
 ]
