@@ -1,7 +1,7 @@
 url: https://ombi.pethor.eu/
-status: down
-code: 530
-responseTime: 126
-lastUpdated: 2021-03-14T20:38:29.974Z
+status: up
+code: 200
+responseTime: 2365
+lastUpdated: 2021-03-14T20:48:08.397Z
 startTime: Mon Nov 23 2020 13:23:48 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
