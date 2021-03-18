@@ -23,6 +23,7 @@ status-website:
   name: Service Status
   introTitle: 
   introMessage: Uptime, average response times, ongoing and past incidents
+  theme: dark
 #  navbar:
 #    - title: Status Page
 #      href: /
