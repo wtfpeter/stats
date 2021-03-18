@@ -7,8 +7,8 @@ sites:
   - name: Plex
     url: https://pethor.duckdns.org:8080/web/index.html
     __dangerous__disable_verify_host: true
-  - name: Ombi
-    url: https://ombi.pethor.eu/
+  - name: Overseer
+    url: https://req.pethor.eu/
   - name: Monitoring
     url: https://mon.pethor.eu/
   - name: Cloud
