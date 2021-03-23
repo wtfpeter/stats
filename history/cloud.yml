@@ -1,7 +1,7 @@
 url: https://cloud.pethor.eu
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2021-03-23T05:49:26.339Z
+status: up
+code: 200
+responseTime: 1084
+lastUpdated: 2021-03-23T05:55:48.543Z
 startTime: Mon Nov 23 2020 20:26:48 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
