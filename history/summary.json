@@ -86,7 +86,7 @@
     "url": "https://mon.pethor.eu/",
     "icon": "https://favicons.githubusercontent.com/mon.pethor.eu",
     "slug": "monitoring",
-    "status": "up",
+    "status": "down",
     "uptime": "71.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
