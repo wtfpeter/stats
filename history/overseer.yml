@@ -1,7 +1,7 @@
 url: https://req.pethor.eu/
-status: up
-code: 200
-responseTime: 3113
-lastUpdated: 2021-04-19T23:19:03.951Z
+status: down
+code: 530
+responseTime: 9104
+lastUpdated: 2021-04-20T03:32:40.594Z
 startTime: Thu Mar 18 2021 08:51:43 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
