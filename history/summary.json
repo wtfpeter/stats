@@ -4,7 +4,7 @@
     "url": "$PLEX_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "plex",
-    "status": "up",
+    "status": "down",
     "uptime": "77.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -77,7 +77,7 @@
     "time": 1858,
     "timeDay": 3828,
     "timeWeek": 2223,
-    "timeMonth": 2082,
+    "timeMonth": 2095,
     "timeYear": 1858,
     "dailyMinutesDown": {}
   },
@@ -162,7 +162,7 @@
     "time": 1298,
     "timeDay": 1003,
     "timeWeek": 949,
-    "timeMonth": 1372,
+    "timeMonth": 1373,
     "timeYear": 1298,
     "dailyMinutesDown": {
       "2021-03-13": 15,
