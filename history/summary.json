@@ -4,7 +4,7 @@
     "url": "$PLEX_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "plex",
-    "status": "up",
+    "status": "down",
     "uptime": "78.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,7 +12,7 @@
     "uptimeYear": "78.66%",
     "time": 697,
     "timeDay": 664,
-    "timeWeek": 683,
+    "timeWeek": 680,
     "timeMonth": 693,
     "timeYear": 697,
     "dailyMinutesDown": {
