@@ -1,7 +1,7 @@
 url: $PLEX_SITE
 status: down
-code: 503
-responseTime: 166
-lastUpdated: 2021-07-26T23:14:44.893Z
+code: 404
+responseTime: 501
+lastUpdated: 2021-07-27T23:15:02.362Z
 startTime: Mon Nov 23 2020 13:13:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
